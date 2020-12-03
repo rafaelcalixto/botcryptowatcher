@@ -1,0 +1,5 @@
+
+jupyter==1.0.0
+spacy==2.3.4
+pt-core-news-md @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_md-2.3.0/pt_core_news_md-2.3.0.tar.gz
+tweepy==3.9.0
