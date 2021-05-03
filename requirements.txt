@@ -1,5 +1,5 @@
-
 jupyter==1.0.0
 spacy==2.3.4
-pt-core-news-md @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_md-2.3.0/pt_core_news_md-2.3.0.tar.gz
 tweepy==3.9.0
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.3.1/en_core_web_md-2.3.1.tar.gz
+emoji==1.2.0
